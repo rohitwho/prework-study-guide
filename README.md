@@ -3,13 +3,14 @@
 
 ## Description
 
-
+This is  basic study Guide for students. Containing general Knowladge about HTML,CSS and JAVASCRIPT. 
 
 
 ## Installation
-
+In order to run this Program you must have an Up to date Browser and a Code Editor(VS Code).
 
 ## Usage
+
 
 
 
